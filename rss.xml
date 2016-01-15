@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Oliviabeauty]]></title>
         <description><![CDATA[Oliviabeauty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oliviabeauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 05:48:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 05:53:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oliviabeauty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa4a797a-4bf0-476a-ad50-d7ef1841321e.jpg">]]></description>
-            <link>undefineda622f6e7-a85b-47b5-964d-e988d1cacdc0/index.html</link>
+            <link>https://thegrid.ai/oliviabeauty/a622f6e7-a85b-47b5-964d-e988d1cacdc0/index.html</link>
             <guid isPermaLink="false">a622f6e7-a85b-47b5-964d-e988d1cacdc0</guid>
-            <pubDate>Fri, 15 Jan 2016 05:48:17 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 05:53:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
