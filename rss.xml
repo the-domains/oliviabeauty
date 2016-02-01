@@ -4,21 +4,21 @@
         <description><![CDATA[Oliviabeauty]]></description>
         <link>https://thegrid.ai/oliviabeauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 05:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 05:07:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oliviabeauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Preserving Collagen]]></title>
+            <description><![CDATA[<article><h1>Preserving Collagen</h1><p>PRESERVING COLLAGEN</p></article>]]></description>
+            <link>https://thegrid.ai/oliviabeauty/a622f6e7-a85b-47b5-964d-e988d1cacdc0/index.html</link>
+            <guid isPermaLink="false">a622f6e7-a85b-47b5-964d-e988d1cacdc0</guid>
+            <pubDate>Mon, 01 Feb 2016 05:06:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eliminating Acne Scars]]></title>
             <description><![CDATA[<h1>Eliminating Acne Scars</h1>]]></description>
             <link>https://thegrid.ai/oliviabeauty/eliminating-acne-scars/index.html</link>
             <guid isPermaLink="false">f9b5a722-8a7b-4e49-affb-cf1410a7b112</guid>
             <pubDate>Mon, 01 Feb 2016 05:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preserving Collagen]]></title>
-            <description><![CDATA[<article><h1>Preserving Collagen</h1><p>PRESERVING COLLAGEN</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/75fe8853e50998c5bdc3a7b2e42284e807e7703d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/oliviabeauty/a622f6e7-a85b-47b5-964d-e988d1cacdc0/index.html</link>
-            <guid isPermaLink="false">a622f6e7-a85b-47b5-964d-e988d1cacdc0</guid>
-            <pubDate>Fri, 15 Jan 2016 05:56:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
